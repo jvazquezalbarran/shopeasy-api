@@ -1,0 +1,22 @@
+{
+  "name": "node-app-insights-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\"",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "applicationinsights": "^3.7.0",
+    "axios": "^1.10.0",
+    "express": "^5.1.0"
+  }
+}
